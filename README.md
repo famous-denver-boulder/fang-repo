@@ -1,5 +1,9 @@
-famous-angular-starter
+Famo.us Denver Boulder github pages repo
 ======================
+
+This was started with the Famo.us/Angular starter so the set up directions are below:
+
+
 
 Starter repo for Famo.us/Angular
 
