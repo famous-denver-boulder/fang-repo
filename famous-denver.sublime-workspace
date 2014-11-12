@@ -1,0 +1,1934 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"duedate",
+				"duedatesFactory"
+			],
+			[
+				"current",
+				"currentToken"
+			],
+			[
+				"total",
+				"totalRubrics"
+			],
+			[
+				"board",
+				"boardFactory"
+			],
+			[
+				"card",
+				"cardToUpdate"
+			],
+			[
+				"heroku",
+				"herokuServer"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"add",
+				"addClass	addClass"
+			],
+			[
+				"newResu",
+				"newResource"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"controll",
+				"$controller	AngularJS"
+			],
+			[
+				"image",
+				"image_url"
+			],
+			[
+				"newResour",
+				"newResourcePayload"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"$loca",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"open",
+				"openAddResource"
+			],
+			[
+				"ifelse",
+				"ifelse	SilverStripe if/else statement"
+			],
+			[
+				"QU",
+				"QuotationAuthor"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"C",
+				"CalloutPanel"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"Spli",
+				"SplitContent"
+			],
+			[
+				"Fo",
+				"FooterOutline"
+			],
+			[
+				"Foo",
+				"FooterSolid"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"footer",
+				"footer_devices"
+			],
+			[
+				"if",
+				"if	SilverStripe if statement"
+			],
+			[
+				"conl",
+				"console.	console.log()"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ls",
+				"last-child"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"specil",
+				"special_mobile"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"prd",
+				"prod_img"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"m",
+				"m	margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"si",
+				"font-size"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"bann",
+				"banner_right"
+			],
+			[
+				"tes",
+				"text-transform"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"n",
+				"transparent"
+			],
+			[
+				"device",
+				"deviceIdentifier"
+			],
+			[
+				"bacground-",
+				"background-image"
+			],
+			[
+				"heatma",
+				"heatmapLayer"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"json",
+				"jsonNewData"
+			],
+			[
+				"fieds",
+				"fields2"
+			],
+			[
+				"sho",
+				"show"
+			],
+			[
+				"newThis",
+				"newThisOptions"
+			],
+			[
+				"newthis",
+				"newThisOptions"
+			],
+			[
+				"newDa",
+				"newData2"
+			],
+			[
+				"to",
+				"toArray	toArray"
+			],
+			[
+				"remove",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"rem",
+				"removeClass	.removeClass"
+			],
+			[
+				"field",
+				"fieldTypes"
+			],
+			[
+				"remo",
+				"remove"
+			],
+			[
+				"fiel",
+				"fieldName"
+			],
+			[
+				"has",
+				"hasClass	.hasClass"
+			],
+			[
+				"actif",
+				"activeField"
+			],
+			[
+				"activeFields",
+				"activeFieldsList"
+			],
+			[
+				"activeFie",
+				"activeFieldsList"
+			],
+			[
+				"pre",
+				"prepend	.prepend"
+			],
+			[
+				"edit",
+				"editFields"
+			],
+			[
+				"eac",
+				"each"
+			],
+			[
+				"activeFi",
+				"activeFieldsList"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ke",
+				"keydown	keydown"
+			],
+			[
+				"nex",
+				"nextUntil	.nextUntil"
+			],
+			[
+				"fieldty",
+				"fieldTypesEmpty"
+			],
+			[
+				"btnSave",
+				"btnSaveEdit"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"fieldTy",
+				"fieldTypeEmpty"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"active",
+				"activeFieldsList"
+			],
+			[
+				"clo",
+				"closest	.closest()"
+			],
+			[
+				"drop",
+				"dropDown"
+			],
+			[
+				"check",
+				"checkRenderComplete"
+			],
+			[
+				"bu",
+				"build"
+			],
+			[
+				"organ",
+				"organizationId"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"console",
+				"console.	console.log()"
+			],
+			[
+				"light",
+				"lightboxClick"
+			],
+			[
+				"state-danger",
+				"state-danger-bg"
+			],
+			[
+				"state-dan",
+				"state-danger-border"
+			],
+			[
+				"cl",
+				"click	click"
+			],
+			[
+				"cons",
+				"console.	console.log()"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ite",
+				"ItemView"
+			],
+			[
+				"Back",
+				"Backbone.Marionette"
+			],
+			[
+				"angry",
+				"AngryCat"
+			],
+			[
+				"exten",
+				"extend"
+			],
+			[
+				"coll",
+				"Collection"
+			],
+			[
+				"ext",
+				"extend"
+			],
+			[
+				"backbon",
+				"Backbone.Marionette"
+			],
+			[
+				"val",
+				"val	.val()"
+			],
+			[
+				"tri",
+				"trigger	trigger"
+			],
+			[
+				"tr",
+				"trigger	trigger"
+			],
+			[
+				"firs",
+				"firstPage2"
+			],
+			[
+				"pr",
+				"profile"
+			],
+			[
+				"glo",
+				"globalJsonVar"
+			],
+			[
+				"string",
+				"stringdata"
+			],
+			[
+				"pro",
+				"profiledata2"
+			],
+			[
+				"con",
+				"console.	console.log()"
+			],
+			[
+				"na",
+				"nationality"
+			],
+			[
+				"reg",
+				"regexp"
+			],
+			[
+				"matc",
+				"match"
+			],
+			[
+				"mat",
+				"matches_array2"
+			],
+			[
+				"flight",
+				"flights"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"lis",
+				"list	list-style-type"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"logo",
+				"logo_wrapper"
+			],
+			[
+				"bi",
+				"background-image"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"co",
+				"col	color"
+			],
+			[
+				"rota",
+				"rotate45"
+			],
+			[
+				"top",
+				"top-bar-section"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 184.0,
+		"selected_items":
+		[
+			[
+				"git st",
+				"Git: Commit history"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"html",
+				"Snippet: htmlboiler"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"ush",
+				"Git: Push Current Branch"
+			],
+			[
+				"rebase",
+				"Git: Pull Using Rebase"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"st",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"a",
+				"Git: Add..."
+			],
+			[
+				"re",
+				"Git: Pull Using Rebase"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"reb",
+				"Git: Pull Using Rebase"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"reba",
+				"Git: Pull Using Rebase"
+			],
+			[
+				"puh",
+				"Git: Push Current Branch"
+			],
+			[
+				"stash",
+				"Git: Stash Changes"
+			],
+			[
+				"res",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"Add",
+				"Git: Add..."
+			],
+			[
+				"rebas",
+				"Git: Pull Using Rebase"
+			],
+			[
+				"c",
+				"Git: Commit"
+			],
+			[
+				"pull",
+				"Git: Pull Using Rebase"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"wra",
+				"Snippet: wrap"
+			],
+			[
+				"ull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"ul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"pua",
+				"Git: Push Current Branch"
+			],
+			[
+				"reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"STAT",
+				"Git: Status"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"COM",
+				"Git: Commit"
+			],
+			[
+				"ADD",
+				"Git: Add..."
+			],
+			[
+				"STA",
+				"Git: Status"
+			],
+			[
+				"dd",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Git: Pull"
+			],
+			[
+				"am",
+				"Git: Amend Commit"
+			],
+			[
+				"hi",
+				"Git: Commit history"
+			],
+			[
+				"his",
+				"Git: Commit history"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Show Tags"
+			],
+			[
+				"QUI",
+				"Git: Quick Commit"
+			],
+			[
+				"ST",
+				"Git: Status"
+			],
+			[
+				"u",
+				"Git: Push Current Branch"
+			],
+			[
+				"fet",
+				"Git: Fetch"
+			],
+			[
+				"pu",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"cm",
+				"Git: Commit"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"us",
+				"Git: Push Current Branch"
+			],
+			[
+				"puah",
+				"Git: Pull Current Branch"
+			],
+			[
+				"ps",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Quick Commit"
+			],
+			[
+				"hist",
+				"Git: Commit history"
+			],
+			[
+				"sil",
+				"Set Syntax: SilverStripe"
+			],
+			[
+				"",
+				"ANF: Delete Current File"
+			],
+			[
+				"dif",
+				"Git: Diff All"
+			],
+			[
+				"br",
+				"Git: Change Branch"
+			],
+			[
+				"bran",
+				"Git: New Branch"
+			],
+			[
+				"git bra",
+				"Git: New Branch"
+			],
+			[
+				"silver",
+				"Set Syntax: SilverStripe"
+			],
+			[
+				"surr",
+				"Surround: change surround"
+			],
+			[
+				"su",
+				"Surround: surround selection"
+			],
+			[
+				"PUSH",
+				"Git: Push Current Branch"
+			],
+			[
+				"PUS",
+				"Git: Push"
+			],
+			[
+				"sur",
+				"Surround: change surround"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"psuh",
+				"Git: Push Current Branch"
+			],
+			[
+				"cim",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"stats",
+				"Git: Status"
+			],
+			[
+				"s",
+				"Sort Lines"
+			],
+			[
+				"foun",
+				"Snippet: ZURB Foundation 5 Reveal"
+			],
+			[
+				"sangul",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add .",
+				"Git: Add..."
+			],
+			[
+				"set js",
+				"Set Syntax: JSON"
+			],
+			[
+				"angul",
+				"Snippet: Google CDN Angular JS script include"
+			],
+			[
+				"boiler",
+				"Snippet: htmlboiler"
+			],
+			[
+				"log",
+				"Snippet: console.log()"
+			],
+			[
+				"con",
+				"Snippet: console.log()"
+			],
+			[
+				"console",
+				"Snippet: console.log()"
+			],
+			[
+				"han",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"diable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"diff",
+				"Git: Diff All"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"psh",
+				"Git: Push"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git phc",
+				"Git: Push Current Branch"
+			],
+			[
+				"pu b",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"bea",
+				"Package Control: Enable Package"
+			],
+			[
+				"b",
+				"Git: Change Branch"
+			],
+			[
+				"form",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"git push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"git puh",
+				"Git: Push Current Branch"
+			],
+			[
+				"GITS",
+				"Git: Commit history"
+			],
+			[
+				"GIT C",
+				"Git: Commit"
+			],
+			[
+				"GIT",
+				"Git: Add..."
+			],
+			[
+				"GIT ",
+				"Git: Status"
+			],
+			[
+				"TIDY",
+				"Tidy HTML"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"pret",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 427.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/leeblazek/Sites/famous-angular-starter-master/app/partials/main.html",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/gulp/build.js",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/app/index.html",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/app/scripts/main/main-ctrl.js",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/dist/index.html",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/gulp/server.js",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/gulp/watch.js",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/app/scripts/famousAngularStarter.js",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/gulp/unit-tests.js",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/test/unit/main.js",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/gulp/e2e-tests.js",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/test/e2e/main.js",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/gulpfile.js",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/bower.json",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/gulp/wiredep.js",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/app/favicon.ico",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/app/styles/main.css",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/app/partials/jade.jade",
+		"/Users/leeblazek/Sites/famous-angular-starter-master/app/partials/jade.html",
+		"/Users/leeblazek/Sites/famous-denver-boulder-main/famous-denver-boulder/index.html",
+		"/Users/leeblazek/Sites/famous-denver-boulder-main/famous-denver-boulder/README.md",
+		"/Users/leeblazek/Sites/famous-denver-boulder/famous-denver-boulder/index.html",
+		"/Users/leeblazek/Library/Caches/Cleanup At Startup/Transmit/F6E33DF9-67B8-43F8-9924-9D62BAB678C8/HomePage.php",
+		"/Users/leeblazek/Desktop/myffos/Gruntfile.js",
+		"/Users/leeblazek/Desktop/myffos/npm-debug.log",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/app.js",
+		"/Users/leeblazek/Library/Application Support/Sublime Text 2/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/engage/deploy/td/td.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/styles/external/_bootstrap-hapara-set.scss",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/engage/gulpfile.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/.gitignore",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/engage/app/styles/external/_bootstrap-hapara-set.scss",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/views/card.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/Gruntfile.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/engage/app/styles/main.scss",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/styles/hapara/_base.scss",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/styles/hapara/mixins/_mixins.scss",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/styles/main.scss",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/engage/app/sass/_variables.scss",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/engage/gulp.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/index.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/views/engage/engage.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/services/cardfactory.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/controllers/engage_ctrl/engage.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/translations.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/engage/package.json",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/po/template.pot",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/po/fr.po",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/README_ENGAGE.md",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/services/duedatesfactory.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/po/for_use_teacher-dashboard_Hapara_TD_POT_fr.po",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/controllers/td.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/views/td/td.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/services/userservice.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/styles/hapara/content/_engage.scss",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/views/engage/add-resource.html",
+		"/Users/leeblazek/Documents/sov/cba/cba.sublime-project",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/engage/views/card.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/directives/card.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/bower.json",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/views/student-panel.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/views/svg/hapara-logo-square-loading.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/controllers/studentgroups.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/engage/404.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/services/boardfactory.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/engage/views/engage/engage.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/404.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/errorProxy.txt",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/services/pickerservice.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/services/utilservice.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/services/navservice.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/views/engage/nav_eg.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/controllers/engage_ctrl/addresource.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/dist/index.html",
+		"/Users/leeblazek/Documents/sov/billyapp/billy-apple/app/index.php",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/test/e2e/engage/engage.spec.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/services/cardfactoryjs_old",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/styles/hapara/shared/_overlays.scss",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/styles/hapara/content/engage.scss",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/node_modules/grunt-google-cdn/node_modules/bower/node_modules/request/node_modules/form-data/node_modules/async/nodelint.cfg",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/controllers/modalinstancecontrol.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/controllers/search.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/controllers/addstudent.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/controllers/addtab.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/controllers/adddashboard.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/filters/filterstudents.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/services/boardservice.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/errorlink.txt",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/styles/hapara/forms/_eg-add-resource.scss",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/services/stackfactory.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/services/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/styles/engage.scss",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/test/e2e/tdi/application.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/test/e2e/tdi/init.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/test/e2e/tdi/specs/tabs.spec.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/package.json",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/bower_components/angular-ui-tinymce/README.md",
+		"/usr/local/lib/node_modules/yo/cli.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/services/studentservice.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/directives/previewwindow.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/directives/droppable.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/test/e2e/tdi/tdi.spec.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/protractor.conf.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/views/card.html.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/views/engage/card.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/directives/engage_drtv/card.js",
+		"/Users/leeblazek/Dropbox/hackakl/traffic-api.sublime-project",
+		"/Users/leeblazek/Documents/hapara/strongloop/engage_demo/package.json",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/dist/views/engage/engage.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/controllers/myroute.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/views/myroute.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/test/spec/controllers/myroute.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/views/tdi/tdi.html",
+		"/Users/leeblazek/Documents/silverstripe_projects/devialet_holder/devialet.sublime-project",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/controllers/tdi.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/test/spec/controllers/tdi.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/dummy_data_engage/dummy_engage_data.json",
+		"/Users/leeblazek/Documents/dash_snippets/start.dash",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/scripts/controllers/scw.js",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/views/add-student.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/views/smart-copy-wizard.html",
+		"/Users/leeblazek/Documents/hapara/hapara2/td-hview/td-client/app/controllers/enage_ctrl/addresource.js",
+		"/Users/leeblazek/Documents/silverstripe_projects/devialet_holder/devialet/mysite/templates/Includes/Footer.ss",
+		"/Users/leeblazek/Documents/silverstripe_projects/devialet_holder/devialet/mysite/templates/Includes/ProductsBox.ss",
+		"/Users/leeblazek/Documents/silverstripe_projects/devialet_holder/devialet/mysite/sass/includes/_footer.scss",
+		"/Users/leeblazek/Documents/silverstripe_projects/devialet_holder/devialet/mysite/sass/includes/_custom.scss",
+		"/Users/leeblazek/Documents/silverstripe_projects/devialet_holder/devialet/mysite/sass/includes/_login.scss",
+		"/Users/leeblazek/Documents/silverstripe_projects/devialet_holder/devialet/mysite/templates/Includes/TopNav.ss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			"",
+			"*.scss",
+			".scss",
+			"*.php",
+			"",
+			"<open files>",
+			"<open files>,<open folders>",
+			"<open files>",
+			"",
+			"/Users/leeblazek/Documents/silverstripe_projects/devialet_holder/devialet/mysite/sass,/Users/leeblazek/Documents/silverstripe_projects/devialet_holder/devialet/mysite/templates",
+			"",
+			"<open files>",
+			"<open files>,<open folders>",
+			"<open files>",
+			"",
+			"<open files>",
+			"/Applications/MAMP/htdocs/keeper/searchapp",
+			"",
+			"<open files>",
+			"",
+			"<open files>",
+			"",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cache",
+			"wire",
+			"../",
+			"engage",
+			"students",
+			"re",
+			"refresh",
+			"engage",
+			"car",
+			"get",
+			"ca",
+			"car",
+			"card",
+			"ccard",
+			"get",
+			"momn",
+			"loading",
+			"wel",
+			"concat",
+			"dis",
+			"au",
+			"ugl",
+			"concat",
+			"cssmin",
+			"concurr",
+			"dist",
+			"glyphicon",
+			"cardTypes",
+			"dist",
+			"cardResource",
+			"{\n",
+			"ep.",
+			"ap.",
+			"ep.",
+			"ep",
+			"resourceContent",
+			"engage",
+			"$#ff894a",
+			"#ff894anew",
+			"Remember",
+			"type",
+			"fourth",
+			"store-locator-dropdown",
+			"devialetdropdown",
+			"class=\"controls\"",
+			"controls",
+			"HolderClasses",
+			"AttributesHTML",
+			"HolderClasses",
+			"keynb",
+			"modal",
+			"footerproducts",
+			"listen-slide-feature-grid",
+			"style=\"opacity: 1;\"",
+			".hideme",
+			"lato",
+			".img-responsive",
+			"ff893a",
+			"jump",
+			"jumptonextsection",
+			"video-callout-panel__description",
+			"sticky",
+			"nav-done",
+			".visible-sm",
+			"base-line\nline",
+			"base-line\n",
+			"base-line",
+			"$font-family-base",
+			"$headings-font-family",
+			"FooterProducts",
+			" MetaLanguages::",
+			"close.png",
+			"to",
+			"images",
+			"sto",
+			"store",
+			"blo",
+			"blog",
+			"systems",
+			"span",
+			"typ",
+			"type",
+			"$devialet-font",
+			"small",
+			"src=\"img",
+			"img",
+			"Select Box",
+			"images",
+			"Ponsonby",
+			"\"count\"",
+			"\"lng\"",
+			"\"lat\"",
+			"messages",
+			"tru",
+			"hid",
+			"activeOptions",
+			"addDraggable",
+			"fieldGroup.",
+			"fieldGroup",
+			"question",
+			"numberOfEmptyRows",
+			"outputEmptyTableRows",
+			"img",
+			"about",
+			"title",
+			"find",
+			"pCmdCLientId",
+			"jsfCmdId",
+			"sidebarview",
+			"control",
+			"control	",
+			"control",
+			"<",
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"../../",
+			"fa",
+			"content",
+			"$orange",
+			"orange",
+			"orangeNew",
+			"col-md-",
+			"src=\"$ThemeDir/img",
+			"count",
+			"lng",
+			"lat",
+			"options",
+			"addInteractivity",
+			"",
+			"field"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 511.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"famousa",
+				"app/scripts/famousAngularStarter.js"
+			],
+			[
+				"gitign",
+				".gitignore"
+			],
+			[
+				"gulp",
+				"engage/gulpfile.js"
+			],
+			[
+				"gul",
+				"engage/gulpfile.js"
+			],
+			[
+				"card",
+				"app/views/card.html"
+			],
+			[
+				"engage.j",
+				"app/scripts/controllers/engage_ctrl/engage.js"
+			],
+			[
+				"re",
+				"README_ENGAGE.md"
+			],
+			[
+				"cardf",
+				"app/scripts/services/cardfactory.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"enag",
+				"app/scripts/controllers/engage_ctrl/engage.js"
+			],
+			[
+				"enga",
+				"app/styles/hapara/content/_engage.scss"
+			],
+			[
+				"td.html",
+				"app/views/td/td.html"
+			],
+			[
+				"td.js",
+				"app/scripts/controllers/td.js"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"a",
+				"app/scripts/app.js"
+			],
+			[
+				"app",
+				"app/scripts/app.js"
+			],
+			[
+				"engag",
+				"app/styles/hapara/content/_engage.scss"
+			],
+			[
+				"car",
+				"engage/views/card.html"
+			],
+			[
+				"add",
+				"app/views/engage/add-resource.html"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"engage",
+				"app/styles/hapara/content/_engage.scss"
+			],
+			[
+				"studentpa",
+				"app/views/student-panel.html"
+			],
+			[
+				"enage",
+				"app/views/engage/engage.html"
+			],
+			[
+				"eng",
+				"app/scripts/controllers/engage_ctrl/engage.js"
+			],
+			[
+				"engg",
+				"app/views/engage/engage.html"
+			],
+			[
+				"enge",
+				"app/scripts/controllers/engage_ctrl/engage.js"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"user",
+				"app/scripts/services/userservice.js"
+			],
+			[
+				"board",
+				"app/scripts/services/boardfactory.js"
+			],
+			[
+				"boad",
+				"app/scripts/services/boardfactory.js"
+			],
+			[
+				"nav",
+				"app/views/engage/nav_eg.html"
+			],
+			[
+				"engage.",
+				"test/e2e/engage/engage.spec.js"
+			],
+			[
+				"anfg",
+				"node_modules/grunt-google-cdn/node_modules/bower/node_modules/request/node_modules/form-data/node_modules/async/nodelint.cfg"
+			],
+			[
+				"modal",
+				"app/scripts/controllers/modalinstancecontrol.js"
+			],
+			[
+				"gru",
+				"Gruntfile.js"
+			],
+			[
+				"in",
+				"app/index.html"
+			],
+			[
+				"tdi.pe",
+				"test/e2e/tdi/specs/tabs.spec.js"
+			],
+			[
+				"td.h",
+				"app/views/td/td.html"
+			],
+			[
+				"ind",
+				"app/index.html"
+			],
+			[
+				"en",
+				"app/views/engage/engage.html"
+			],
+			[
+				"add-",
+				"app/views/engage/add-resource.html"
+			],
+			[
+				"tdi",
+				"test/e2e/tdi/tdi.spec.js"
+			],
+			[
+				"engage.spec",
+				"test/e2e/engage/engage.spec.js"
+			],
+			[
+				"add-re",
+				"app/views/engage/add-resource.html"
+			],
+			[
+				"ap",
+				"app/scripts/app.js"
+			],
+			[
+				"gr",
+				"Gruntfile.js"
+			],
+			[
+				"addres",
+				"app/views/engage/add-resource.html"
+			],
+			[
+				"enage.",
+				"test/e2e/engage/engage.spec.js"
+			],
+			[
+				"tdi.spe",
+				"test/e2e/tdi/tdi.spec.js"
+			],
+			[
+				"my",
+				"test/spec/controllers/myroute.js"
+			],
+			[
+				"resource",
+				"app/views/engage/add-resource.html"
+			],
+			[
+				"addr",
+				"app/views/engage/add-resource.html"
+			],
+			[
+				"scw",
+				"app/scripts/controllers/scw.js"
+			],
+			[
+				"dumm",
+				"app/dummy_data_engage/dummy_engage_data.json"
+			],
+			[
+				"add-st",
+				"app/views/add-student.html"
+			],
+			[
+				"tdi.js",
+				"app/scripts/controllers/tdi.js"
+			],
+			[
+				"engage.js",
+				"app/scripts/controllers/engage_ctrl/engage.js"
+			],
+			[
+				"prod",
+				"mysite/templates/Includes/ProductsBox.ss"
+			],
+			[
+				"foo",
+				"devialet/mysite/templates/Includes/Footer.ss"
+			],
+			[
+				"top",
+				"mysite/templates/Includes/TopNav.ss"
+			],
+			[
+				"login.scss",
+				"mysite/sass/includes/_login.scss"
+			],
+			[
+				"custom.sc",
+				"mysite/sass/includes/_custom.scss"
+			],
+			[
+				"login",
+				"devialet/mysite/templates/Includes/LoginPanel.ss"
+			],
+			[
+				"vari",
+				"mysite/sass/includes/_variables.scss"
+			],
+			[
+				"sty",
+				"mysite/sass/styles.scss"
+			],
+			[
+				"feature",
+				"mysite/sass/includes/_feature-list.scss"
+			],
+			[
+				"fea",
+				"mysite/templates/Layout/FeatureListPanel.ss"
+			],
+			[
+				"cu",
+				"mysite/css/custom.css"
+			],
+			[
+				"ic",
+				"mysite/sass/includes/_icomoon.scss"
+			],
+			[
+				"mail",
+				"mysite/templates/Includes/MailChimp.ss"
+			],
+			[
+				"footer",
+				"mysite/templates/Includes/Footer.ss"
+			],
+			[
+				"page",
+				"mysite/templates/Page.ss"
+			],
+			[
+				"webtostore-",
+				"devialet/webtostore/css/webtostore-modal.css"
+			],
+			[
+				"webtostore.css",
+				"devialet/webtostore/css/webtostore.css"
+			],
+			[
+				"page.p",
+				"mysite/code/pages/Page.php"
+			],
+			[
+				"forms",
+				"mysite/sass/includes/_forms.scss"
+			],
+			[
+				"offcanv",
+				"mysite/sass/includes/_off-canvas-menu.scss"
+			],
+			[
+				"pa",
+				"mysite/templates/Page.ss"
+			],
+			[
+				"cus",
+				"mysite/css/custom.css"
+			],
+			[
+				"panels",
+				"mysite/sass/includes/_panels.scss"
+			],
+			[
+				"styl",
+				"mysite/sass/styles.scss"
+			],
+			[
+				"spli",
+				"mysite/code/pages/SplitPanel.php"
+			],
+			[
+				"spe",
+				"mysite/code/pages/SpecificationsPanel.php"
+			],
+			[
+				"sp",
+				"mysite/templates/Layout/SpecificationsPanel.ss"
+			],
+			[
+				"splitpa",
+				"mysite/sass/includes/_split-panel.scss"
+			],
+			[
+				"productfee",
+				"mysite/sass/includes/_product-feature-panel.scss"
+			],
+			[
+				"samspea",
+				"mysite/sass/includes/_sam-speaker-list.scss"
+			],
+			[
+				"sam",
+				"mysite/templates/Layout/SamSpeakerList.ss"
+			],
+			[
+				"offcanvas",
+				"mysite/sass/includes/_off-canvas-menu.scss"
+			],
+			[
+				"style",
+				"devialet/mysite/css/styles.css"
+			],
+			[
+				"sidr.cs",
+				"mysite/css/jquery.sidr.light.css"
+			],
+			[
+				"off",
+				"mysite/templates/Includes/OffCanvasMenu.ss"
+			],
+			[
+				"styles",
+				"mysite/sass/styles.scss"
+			],
+			[
+				"storeloca",
+				"devialet/mysite/sass/includes/_storelocator-page.scss"
+			],
+			[
+				"productfeate",
+				"devialet/mysite/templates/Layout/ProductFeaturePanel.ss"
+			],
+			[
+				"page.php",
+				"mysite/code/pages/Page.php"
+			],
+			[
+				"store",
+				"mysite/code/pages/StoreLocatorPage.php"
+			],
+			[
+				"webtosti",
+				"devialet/webtostore/templates/WebToStorePageIframe.ss"
+			],
+			[
+				"storelocat",
+				"mysite/templates/Layout/StoreLocatorPage.ss"
+			],
+			[
+				"webtostore",
+				"devialet/webtostore/css/webtostore.css"
+			],
+			[
+				"webtostore.cs",
+				"devialet/webtostore/css/webtostore.css"
+			],
+			[
+				"forms.scss",
+				"mysite/sass/bootstrap/_forms.scss"
+			],
+			[
+				"webtostr",
+				"devialet/webtostore/code/WebToStorePage.php"
+			],
+			[
+				"webto",
+				"devialet/webtostore/templates/Layout/WebToStorePage.ss"
+			],
+			[
+				"bootstrapform",
+				"devialet/bootstrap-forms/code/BootstrapForm.php"
+			],
+			[
+				"webtostre",
+				"devialet/webtostore/code/WebToStorePage.php"
+			],
+			[
+				"panels.scss",
+				"mysite/sass/includes/_panels.scss"
+			],
+			[
+				"pane",
+				"mysite/sass/bootstrap/_panels.scss"
+			],
+			[
+				"quo",
+				"mysite/code/pages/QuotationPanel.php"
+			],
+			[
+				"splitpanel.scss",
+				"mysite/sass/includes/_split-panel.scss"
+			],
+			[
+				"featureg",
+				"mysite/templates/Layout/FeatureGridPanel.ss"
+			],
+			[
+				"featuregrid",
+				"mysite/sass/includes/_feature-grid.scss"
+			],
+			[
+				"productfe",
+				"mysite/sass/includes/_product-feature-panel.scss"
+			],
+			[
+				"productf",
+				"workflows/.sass-cache/a2ca728d3a7ad389992535a67b9cf2185bdf4621/_product-feature-panel.scssc"
+			],
+			[
+				"splitpanel.scs",
+				"mysite/sass/includes/_split-panel.scss"
+			],
+			[
+				"featurelis",
+				"mysite/templates/Layout/FeatureListPanel.ss"
+			],
+			[
+				"pan",
+				"mysite/sass/bootstrap/_panels.scss"
+			],
+			[
+				"feat",
+				"mysite/templates/Layout/FeatureListPanel.ss"
+			],
+			[
+				"spec",
+				"devialet/mysite/code/pages/SpecificationsPanel.php"
+			],
+			[
+				"offcan",
+				"mysite/templates/Includes/OffCanvasMenu.ss"
+			],
+			[
+				"featurelist.scss",
+				"devialet/mysite/sass/includes/_feature-list.scss"
+			],
+			[
+				"icomoon.scs",
+				"mysite/sass/includes/_icomoon.scss"
+			],
+			[
+				"featureli",
+				"mysite/sass/includes/_feature-list.scss"
+			],
+			[
+				"page.ss",
+				"mysite/templates/Layout/Page.ss"
+			],
+			[
+				"page.",
+				"mysite/templates/Layout/Page.ss"
+			],
+			[
+				"productb",
+				"mysite/templates/Includes/ProductsBox.ss"
+			],
+			[
+				"pro",
+				"mysite/templates/Includes/ProductsBox.ss"
+			],
+			[
+				"productfeat",
+				"mysite/templates/Layout/ProductFeaturePanel.ss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true
+}
